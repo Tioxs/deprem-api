@@ -1,6 +1,6 @@
 <?php
 class Earthquake {
-    private $url = "http://www.koeri.boun.edu.tr/scripts/lst3.asp";
+    private $url = "http://www.koeri.boun.edu.tr/scripts/lst5.asp";
 
     public function getEarthquakes() {
         $ch = curl_init();
@@ -44,4 +44,5 @@ class Earthquake {
         }
         return $results;
     }
+
 }
