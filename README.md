@@ -23,7 +23,7 @@ php -S localhost:8000
 
 📖 API Kullanımı
 Sorgu Parametreler:
-```bash
+```table
 Parametre	   Tip	       Açıklama                                               	Örnek
 sehir	       string	     Belirli bir şehir veya bölgeye göre filtreleme yapar.	  ?sehir=izmir
 min	         float	     Belirtilen değer ve üzerindeki büyüklükleri getirir.	    ?min=4.0
