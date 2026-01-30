@@ -24,11 +24,11 @@ php -S localhost:8000
 📖 API Kullanımı
 Sorgu Parametreler:
 ```table
-Parametre	   Tip	       Açıklama                                               	Örnek
-sehir	       string	     Belirli bir şehir veya bölgeye göre filtreleme yapar.	  ?sehir=izmir
+Parametre	   Tip	         Açıklama                                               	Örnek
+sehir	       string	     Belirli bir şehir veya bölgeye göre filtreleme yapar.	    ?sehir=izmir
 min	           float	     Belirtilen değer ve üzerindeki büyüklükleri getirir.	    ?min=4.0
 limit      	   int	       Dönecek olan maksimum sonuç sayısını belirler.	          ?limit=5
-sort	       string	     mag değeri verilirse en büyük depremi en üste alır.	    ?sort=mag
+sort	       string	       mag değeri verilirse en büyük depremi en üste alır.	    ?sort=mag
 ```
 
 Örnek Request;
