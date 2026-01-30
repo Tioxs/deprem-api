@@ -10,7 +10,7 @@ CORS Desteği: Frontend projelerinde (React, Vue, vb.) doğrudan kullanım imkan
 🛠️ Kurulum
 Projeyi yerel makinenize klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/deprem-api.git
+git clone https://github.com/Tioxs/deprem-api.git
 ``` 
 `data/` klasörüne yazma izni (CHMOD 777) verin:
 ```bash
