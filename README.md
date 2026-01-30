@@ -59,6 +59,7 @@ GET http://localhost:8000/index.php?sehir=antalya&min=3.0&limit=3
 ```
 
 İletişim;
+[Bu adresten benle iletişim kurabilirsiniz](https://t.me/tisikoz) 
 
 📄 Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır.
